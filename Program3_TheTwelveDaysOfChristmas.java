@@ -4,7 +4,7 @@ public class Program3_TheTwelveDaysOfChristmas
   {
     for (int day = 1; day <=12 ; day++)
     {
-      System.out.println("On the ");
+      System.out.print("On the ");
 
       switch(day)
       {
