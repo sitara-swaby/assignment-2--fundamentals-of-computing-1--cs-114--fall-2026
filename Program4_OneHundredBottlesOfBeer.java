@@ -17,10 +17,11 @@ public class Program4_OneHundredBottlesOfBeer
 
     for (int bottles = 100; bottles > 100 - songVerses; bottles--)
     {
-      System.out.println(bottles + "bottles of beer on the wall");
+      System.out.println(bottles + " bottles of beer on the wall");
       System.out.println(bottles + "bottles of beer");
       System.out.println("If one of those bottles should happen to fall");
-      System.out.println(bottles + "bottles of beer on the wall");
+      System.out.println(bottles + " bottles of beer on the wall");
+      System.out.println();
     }
 
   }
