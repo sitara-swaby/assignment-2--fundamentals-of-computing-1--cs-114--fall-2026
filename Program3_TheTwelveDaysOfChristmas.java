@@ -25,7 +25,7 @@ public class Program3_TheTwelveDaysOfChristmas
           break;
       }
 
-      System.out.println(" day of Christmas, my true love sent to me");
+      System.out.println(" day of Christmas, my true love gave to me");
 
       switch (day)
       {
